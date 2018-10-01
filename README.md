@@ -13,7 +13,7 @@ nebo
 Prosím, pokud máte jakoukoli **připomínku** nebo **dotaz** napište 
 [Issue](https://github.com/spseol/PRG-No/issues/new).
 Pokud najdete **chybu**, forkněte si repozitář a opravte ji nebo mi alespoň 
-dejte vědět tím, že napíšete
+dejte vědět tím, že napíšete chybu sami.
 [Issue](https://github.com/spseol/PRG-No/issues/new).
 
 
