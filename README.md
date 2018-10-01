@@ -1,5 +1,5 @@
  Programování v jazyce Python
- @NožkajeBůh
+ @NožkajeBůh 
 =================================
 
 [![Join the chat at https://gitter.im/spseol/PRG-No](https://badges.gitter.im/spseol/PRG-No.svg)](https://gitter.im/spseol/PRG-No?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
