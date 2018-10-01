@@ -55,7 +55,7 @@ Kde se učit a hledat informace
      - [HTML](http://diveintopython3.py.cz/index.html)
      - [... PDF a další formáty](https://knihy.nic.cz/#Python3)
 
- * Návody vytvořené u nás ve škole:
+ * Názory vytvořené u nás ve škole:
     - [grafické uživatelské rozhranní s PyQt4](http://spseol.github.io/PyQt4Doc/)
     - [Flask a Jinja2](http://spseol.github.io/CzechFlaskDoc/)
     - [Český manuál k MatPlotLib](http://mamut.spseol.cz/matplotlib/)
